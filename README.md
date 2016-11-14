@@ -10,7 +10,7 @@ This project is meant to preserve the legacy, and yet, still useful content bind
 
 ## Binaries
 
-[![Release](https://jitpack.io/v/andrefio/Rx.ContentObservable.svg)](https://jitpack.io/#andrefio/Rx.ContentObservable)
+[![Release](https://jitpack.io/v/io.andref/Rx.ContentObservable.svg)](https://jitpack.io/#io.andref/Rx.ContentObservable)
 
 Add the JitPack repository to your root build.gradle at the end of repositories:
 
@@ -27,7 +27,7 @@ And then add this library to your project:
 
 ```groovy
    dependencies {
-        compile 'com.github.andrefio:Rx.ContentObservable:1.0.0'
+        compile 'io.andref:Rx.ContentObservable:1.0.0'
    }
 ```
 
